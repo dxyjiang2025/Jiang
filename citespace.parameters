@@ -1,0 +1,19 @@
+Date	November 8, 2024, 5:29:11 PM CST
+Project Home	C:\Users\19746\Desktop\8966\project
+Data Home	C:\Users\19746\Desktop\8966\date
+Data Source	WoS
+Language	English
+From	2014-JAN
+To	2024-DEC
+Slice Length	1
+Title	true
+Abstract	true
+Descriptor	true
+Identifier	true
+Prune with PF	false
+Prune with MST	true
+Prune Slices	true
+Prune Merged	false
+Threshold Group 0	2, 2, 20
+Threshold Group 1	4, 3, 20
+Threshold Group 2	4, 3, 20
